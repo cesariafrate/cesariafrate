@@ -1,4 +1,8 @@
-## Hi there 👋
+## César I. Castelhano
+
+Olá 👋
+Sou formado em Engenharia e estou fazendo alguns cursos diversos de analise de dados e explorando o mundo do GitHub.
+Estou pronto para colaborar e aprender!
 
 <!--
 **cesariafrate/cesariafrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
